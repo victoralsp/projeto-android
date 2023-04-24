@@ -17,7 +17,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', 'cursive';
-    --fonte-android: 'Android', 'cursive'
+    --fonte-android: 'Android', 'cursive';
 }
 
 * {
@@ -56,6 +56,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+    padding-bottom: 35px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.093);
 }
 
